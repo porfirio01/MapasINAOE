@@ -29,7 +29,7 @@
 			<styleUrl>#shp2kml111200100115031_copy95</styleUrl>
 		</Pair>
 		<Pair>
-			<key>highlight</key>
+			<key></key>
 			<styleUrl>#shp2kml111200100115031_copy96</styleUrl>
 		</Pair>
 	</StyleMap>
@@ -125,10 +125,9 @@
 		
 		
 		
-		<Placemark>
-			<name>PUEBLA (PUE)</name>
-			<snippet></snippet>
-			<Snippet maxLines="0"></Snippet>
+		<Placemark id="pm">
+			
+			
 			
 			<styleUrl>#shp2kml111200100115031_copy94</styleUrl>
 			<Polygon>
